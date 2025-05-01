@@ -42,4 +42,4 @@ ShelfFlow enables data teams to:
 ![pipeline](diagram.png)
 
 ## Author
-Raja Usama Abbas – AI Engineer | [LinkedIn]((https://www.linkedin.com/in/raja-a-96036a135))
+Raja Usama Abbas – AI Engineer | [LinkedIn](https://www.linkedin.com/in/raja-a-96036a135)
